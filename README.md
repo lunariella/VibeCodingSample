@@ -4,6 +4,10 @@ Claude API로 대화를 진행하고, "이미지로 만들기" 버튼을 누르�
 
 바이브코딩(Vibe Coding) 입문자가 **AI 에디터(Claude Code, Cursor 등)에게 무엇을, 어떻게 지시해야 잘 동작하는 결과물이 나오는지** 익히기 위한 레퍼런스로 만들어졌다.
 
+<p align="center">
+  <img src="./screenshot.png" alt="Vibe Code Sample 실행 화면 — Claude와의 대화와 생성된 이미지" width="420" />
+</p>
+
 ---
 
 ## 1. 빠른 시작
